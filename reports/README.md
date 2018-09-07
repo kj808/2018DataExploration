@@ -1,1 +1,1 @@
-Contains reports
+Report of how well machine learning algorithms determined patterns based on the graphs and data. Furthermore, contains why this algorithm is implemented and the success rate.

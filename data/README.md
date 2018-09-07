@@ -1,4 +1,4 @@
-Folder contains all datasets used.
+### Folder contains all datasets used.
 
 Data set 1 represents high schools in Massachusettes. The data viewed are SAT scores and accountability/assistance levels.
 
